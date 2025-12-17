@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\qltinhhinh\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\qltinhhinh\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\qltinhhinh\\qltinhhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\qltinhhinh\\qltinhhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\qltinhhinh\\diaphuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\qltinhhinh\\diaphuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|c:\\1.education\\c.sharp\\2380613311_nguyenphuongnam\\windowsform\\2380613311_nguyenphuongnam\\kiemtragiuaky\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BB60FA-D75B-4616-B99D-760028CBCA2C}|KiemTraGiuaKy\\KiemTraGiuaKy.csproj|solutionrelative:kiemtragiuaky\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form1.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\Form1.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form1.cs [Design]",
+              "RelativeToolTip": "KiemTraGiuaKy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T01:01:44.208Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form2.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\Form2.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form2.cs",
+              "RelativeToolTip": "KiemTraGiuaKy\\Form2.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T02:54:04.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form2.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\Form2.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form2.cs [Design]",
+              "RelativeToolTip": "KiemTraGiuaKy\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T02:48:28.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\Form1.Designer.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form1.Designer.cs",
+              "RelativeToolTip": "KiemTraGiuaKy\\Form1.Designer.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAhwLgAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T02:31:28.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrangThai.cs",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\QLTinhHinh\\TrangThai.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\QLTinhHinh\\TrangThai.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\QLTinhHinh\\TrangThai.cs",
+              "RelativeToolTip": "KiemTraGiuaKy\\QLTinhHinh\\TrangThai.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T01:37:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form1.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\Form1.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\Form1.cs",
+              "RelativeToolTip": "KiemTraGiuaKy\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAawEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T01:35:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiaPhuong.cs",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\QLTinhHinh\\DiaPhuong.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\QLTinhHinh\\DiaPhuong.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\QLTinhHinh\\DiaPhuong.cs",
+              "RelativeToolTip": "KiemTraGiuaKy\\QLTinhHinh\\DiaPhuong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T01:37:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLTinhHinh.cs",
+              "DocumentMoniker": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\QLTinhHinh\\QLTinhHinh.cs",
+              "RelativeDocumentMoniker": "KiemTraGiuaKy\\QLTinhHinh\\QLTinhHinh.cs",
+              "ToolTip": "C:\\1.Education\\C.Sharp\\2380613311_NguyenPhuongNam\\WindowsForm\\2380613311_NguyenPhuongNam\\KiemTraGiuaKy\\QLTinhHinh\\QLTinhHinh.cs",
+              "RelativeToolTip": "KiemTraGiuaKy\\QLTinhHinh\\QLTinhHinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T01:28:43.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

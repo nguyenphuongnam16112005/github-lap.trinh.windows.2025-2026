@@ -1,0 +1,16 @@
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe.config
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.pdb
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\bin\Debug\EntityFramework.dll
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.dll
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\bin\Debug\EntityFramework.xml
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.xml
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.AssemblyReference.cache
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.Form1.resources
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.Properties.Resources.resources
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.GenerateResource.cache
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.CoreCompileInputs.cache
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraG.8BAA373B.Up2Date
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.exe
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.pdb
+C:\1.Education\C.Sharp\2380613311_NguyenPhuongNam\WindowsForm\2380613311_NguyenPhuongNam\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.Form2.resources
