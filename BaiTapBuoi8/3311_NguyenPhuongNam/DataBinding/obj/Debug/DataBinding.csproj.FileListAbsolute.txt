@@ -1,0 +1,15 @@
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\bin\Debug\DataBinding.exe.config
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\bin\Debug\DataBinding.exe
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\bin\Debug\DataBinding.pdb
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\bin\Debug\EntityFramework.dll
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\bin\Debug\EntityFramework.xml
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBinding.csproj.AssemblyReference.cache
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBinding.Form1.resources
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.cache
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBind.841E8E01.Up2Date
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBinding.exe
+C:\Users\as\Documents\GitHub\github-lap.trinh.windows.2025-2026\BaiTapBuoi8\3311_NguyenPhuongNam\DataBinding\obj\Debug\DataBinding.pdb
