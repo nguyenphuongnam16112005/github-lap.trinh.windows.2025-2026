@@ -1,0 +1,2 @@
+Chạy CMD trong folder
+git clone <https://github.com/nguyenphuongnam16112005/github-lap.trinh.windows.2025-2026>

@@ -1,0 +1,179 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Buoi02_QLSV
+{
+    public partial class frmQuanLySinhVien : Form
+    {
+        public frmQuanLySinhVien()
+        {
+            InitializeComponent();
+        }
+
+        private void dgvQLSV_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex == -1) return;
+
+            // Lấy ra dòng đang được chọn
+            DataGridViewRow selectedRow = dgvStudent.Rows[e.RowIndex];
+
+            // Bắt đầu chép ngược dữ liệu từ Bảng về Ô nhập (use safe getters)
+            txtStudentID.Text = GetCellString(e.RowIndex, 0); // MSSV
+            txtFullName.Text = GetCellString(e.RowIndex, 1);  // Họ Tên
+
+            // Xử lý giới tính
+            string gender = GetCellString(e.RowIndex, 2);
+            if (gender == "Nam")
+                optMale.Checked = true; // Radio button tên optMale
+            else if (gender == "Nữ")
+                optFemale.Checked = true;
+            else
+            {
+                optMale.Checked = false;
+                optFemale.Checked = false;
+            }
+
+            txtAverageScore.Text = GetCellString(e.RowIndex, 3); // Điểm TB
+
+            // Xử lý Combobox Khoa (Cần chọn đúng khoa trong danh sách)
+            cmbFaculty.Text = GetCellString(e.RowIndex, 4);
+        }
+
+        private void frmQuanLySinhVien_Load(object sender, EventArgs e)
+        {
+            if (cmbFaculty.Items.Count > 0)
+                cmbFaculty.SelectedIndex = 0;
+        }
+        private int GetSelectedRow(string studentID)
+        {
+            if (string.IsNullOrWhiteSpace(studentID)) return -1;
+            for (int i = 0; i < dgvStudent.Rows.Count; i++)
+            {
+                var cellVal = dgvStudent.Rows[i].Cells[0].Value;
+                if (cellVal != null && cellVal.ToString() == studentID)
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        // Safe getter for cell string values
+        private string GetCellString(int rowIndex, int colIndex)
+        {
+            if (rowIndex < 0 || rowIndex >= dgvStudent.Rows.Count) return string.Empty;
+            var cell = dgvStudent.Rows[rowIndex].Cells[colIndex];
+            return cell?.Value?.ToString() ?? string.Empty;
+        }
+
+        private void InsertUpdate(int selectedRow)
+        {
+            dgvStudent.Rows[selectedRow].Cells[0].Value = txtStudentID.Text;
+            dgvStudent.Rows[selectedRow].Cells[1].Value = txtFullName.Text;
+            dgvStudent.Rows[selectedRow].Cells[2].Value = optFemale.Checked ? "Nữ" : "Nam";
+
+            // Parse average score safely
+            if (float.TryParse(txtAverageScore.Text, out float score))
+                dgvStudent.Rows[selectedRow].Cells[3].Value = score.ToString();
+            else
+                dgvStudent.Rows[selectedRow].Cells[3].Value = string.Empty;
+
+            dgvStudent.Rows[selectedRow].Cells[4].Value = cmbFaculty.Text;
+        }
+        private void StudenCount()
+        {
+            int countMale = 0;
+            int countFemale = 0;
+
+            for(int i = 0; i < dgvStudent.Rows.Count;i++)
+            {
+                var idCell = dgvStudent.Rows[i].Cells[0].Value;
+                if (idCell != null)
+                {
+                    // Lấy giới tính ở cột số 2 (cột Giới Tính)
+                    var genderVal = dgvStudent.Rows[i].Cells[2].Value;
+                    if (genderVal == null) continue;
+
+                    string gender = genderVal.ToString();
+
+                    if (gender == "Nam")
+                    {
+                        countMale++; // Thấy Nam thì cộng 1
+                    }
+                    else if (gender == "Nữ")
+                    {
+                        countFemale++; // Thấy Nữ thì cộng 1
+                    }
+                }
+            }
+            txtMale.Text = countMale.ToString();
+            txtFemale.Text = countFemale.ToString();
+        }
+        private void btnUpd_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (string.IsNullOrWhiteSpace(txtStudentID.Text) || string.IsNullOrWhiteSpace(txtFullName.Text) || string.IsNullOrWhiteSpace(txtAverageScore.Text))
+                    throw new Exception("Vui lòng nhập đầy đủ thông tin Sinh Viên!");
+
+                if (!float.TryParse(txtAverageScore.Text, out _))
+                    throw new Exception("Điểm trung bình không hợp lệ.");
+
+                int selectedRow = GetSelectedRow(txtStudentID.Text);
+                if (selectedRow == -1) //TH thêm mới DỮ LIỆU
+                {
+                    selectedRow = dgvStudent.Rows.Add();
+                    InsertUpdate(selectedRow);
+                    MessageBox.Show("Thêm mới dữ liệu thành công!", "Thông báo", MessageBoxButtons.OK);
+                }
+                else //TH cập nhật DỮ LIỆU
+                {
+                    InsertUpdate(selectedRow);
+                    MessageBox.Show("Cập nhật dữ liệu thành công!", "Thông báo", MessageBoxButtons.OK);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            StudenCount();
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int selectedRow = GetSelectedRow(txtStudentID.Text);
+                if (selectedRow == -1)
+                {
+                    throw new Exception("Không tìm thấy MSSV để xóa!");
+                } else
+                {
+                    DialogResult dr = MessageBox.Show("Bạn có muốn xóa ?", "YES/NO", MessageBoxButtons.YesNo);
+                    if(dr == DialogResult.Yes)
+                    {
+                        dgvStudent.Rows.RemoveAt(selectedRow);
+                        MessageBox.Show("Xóa dữ liệu Sinh Viên thành công!", "Thông báo", MessageBoxButtons.OK);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Lỗi!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            StudenCount();
+        }
+
+        private void cmbFaculty_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //cmbFaculty.SelectedIndex = 1;
+        }
+    }
+}

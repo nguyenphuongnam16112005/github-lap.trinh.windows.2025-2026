@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5130245-C0DC-4CC5-B72B-9ED6CB828822}|Gui\\Gui.csproj|c:\\users\\as\\documents\\github\\github-lap.trinh.windows.2025-2026\\baitapbuoi6\\bt_buoi6\\gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5130245-C0DC-4CC5-B72B-9ED6CB828822}|Gui\\Gui.csproj|solutionrelative:gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5130245-C0DC-4CC5-B72B-9ED6CB828822}|Gui\\Gui.csproj|C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5130245-C0DC-4CC5-B72B-9ED6CB828822}|Gui\\Gui.csproj|solutionrelative:gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0335EC9-1428-42CB-8233-0DB21573BF34}|Dal\\Dal.csproj|C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\dal\\entities\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0335EC9-1428-42CB-8233-0DB21573BF34}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C5980-7010-4B40-A9E9-23EF6F0E8B77}|Bus\\Bus.csproj|C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C5980-7010-4B40-A9E9-23EF6F0E8B77}|Bus\\Bus.csproj|solutionrelative:bus\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C5980-7010-4B40-A9E9-23EF6F0E8B77}|Bus\\Bus.csproj|C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C5980-7010-4B40-A9E9-23EF6F0E8B77}|Bus\\Bus.csproj|solutionrelative:bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C5980-7010-4B40-A9E9-23EF6F0E8B77}|Bus\\Bus.csproj|C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C5980-7010-4B40-A9E9-23EF6F0E8B77}|Bus\\Bus.csproj|solutionrelative:bus\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Dal\\Entities\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Dal\\Entities\\StudentModel.cs",
+              "RelativeToolTip": "Dal\\Entities\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:36:11.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Bus\\StudentService.cs",
+              "RelativeDocumentMoniker": "Bus\\StudentService.cs",
+              "ToolTip": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Bus\\StudentService.cs",
+              "RelativeToolTip": "Bus\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:24:54.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Bus\\FacultyService.cs",
+              "RelativeDocumentMoniker": "Bus\\FacultyService.cs",
+              "ToolTip": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Bus\\FacultyService.cs",
+              "RelativeToolTip": "Bus\\FacultyService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:27:50.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStudent.cs",
+              "DocumentMoniker": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Gui\\frmStudent.cs",
+              "RelativeDocumentMoniker": "Gui\\frmStudent.cs",
+              "ToolTip": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Gui\\frmStudent.cs",
+              "RelativeToolTip": "Gui\\frmStudent.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAMwHUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:04:52.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Gui\\frmStudent.cs",
+              "RelativeDocumentMoniker": "Gui\\frmStudent.cs",
+              "ToolTip": "C:\\Users\\as\\Downloads\\bt6\\Gui\\frmStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\bt6\\Gui\\frmStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:33:14.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MajorService.cs",
+              "DocumentMoniker": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Bus\\MajorService.cs",
+              "RelativeDocumentMoniker": "Bus\\MajorService.cs",
+              "ToolTip": "C:\\Users\\as\\Documents\\GitHub\\github-lap.trinh.windows.2025-2026\\BaiTapBuoi6\\BT_Buoi6\\Bus\\MajorService.cs",
+              "RelativeToolTip": "Bus\\MajorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:27:35.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

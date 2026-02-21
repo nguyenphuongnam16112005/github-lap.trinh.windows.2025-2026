@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bus/Bus.csproj" Id="b34c5980-7010-4b40-a9e9-23ef6f0e8b77" />
+  <Project Path="Dal/Dal.csproj" Id="c0335ec9-1428-42cb-8233-0db21573bf34" />
+  <Project Path="Gui/Gui.csproj" Id="c5130245-c0dc-4cc5-b72b-9ed6cb828822" />
+</Solution>
